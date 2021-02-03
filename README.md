@@ -1,4 +1,4 @@
-# Clickbait-Titles
+# Clickbait Titles
 
 ### Riche Ngo
 
